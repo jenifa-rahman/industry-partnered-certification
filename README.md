@@ -1,5 +1,7 @@
 # industry-partnered-certification
 # Industry-Partnered Certification Blockchain System
+![Uploading Screenshot 2024-08-27 at 5.31.40 PM.png…]()
+
 
 1) Vision
 The **Industry-Partnered Certification Blockchain System** is designed to revolutionize the way industry-specific skills are certified. By leveraging blockchain technology, this system ensures that certifications issued by industry partners are secure, immutable, and easily verifiable by employers, educators, and other stakeholders. This project aims to bridge the gap between industry standards and educational institutions, creating a more transparent and trustworthy certification process.
