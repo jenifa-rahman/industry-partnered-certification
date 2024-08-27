@@ -51,7 +51,7 @@ Once deployed on a blockchain network (e.g., Ethereum, Binance Smart Chain), the
 5) Contact Information
 For any inquiries or support regarding the **Industry-Partnered Certification Blockchain System**, please reach out:
 
-- **Developer Name:** [Your Name]
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Developer Name:** JENIFA RAHMAN
+- **Email:** jenifarahman258@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
